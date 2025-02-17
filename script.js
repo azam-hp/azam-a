@@ -1,7 +1,7 @@
 const tableView = document.querySelector("table");
 const cardView = document.querySelector(".task-container");
 const showTableBtn = document.querySelector(".box24");
-const showCardsBtn = document.querySelector(".box2");
+const showCardsBtn = document.querySelector(".box25");
 
 tableView.style.display = "table";
 cardView.style.display = "none";
